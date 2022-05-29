@@ -1,0 +1,24 @@
+item {
+  name: "pie_chart"
+  id: 1
+}
+
+item {
+  name: "donut"
+  id: 2
+}
+
+item {
+  name: "bar_graph"
+  id: 3
+}
+
+item {
+  name: "line_chart"
+  id: 4
+}
+
+item {
+  name: "area_chart"
+  id: 5
+}
