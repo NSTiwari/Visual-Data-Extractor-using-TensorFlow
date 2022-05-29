@@ -1,1 +1,1 @@
-# Visual-Data-Extractor-using-TensorFlow
+# Visual Data Extractor using TensorFlow
