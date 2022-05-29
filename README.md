@@ -28,7 +28,7 @@ You will find this file in the following path: ```C:\Users\<your-username>\AppDa
 6. Open command prompt and run ```py detect_graphs.py``` file.
 
 
-**Facts:** 
+## Facts: 
 - The model was trained for 5 classes of visualizations viz. Pie Chart, Bar Graph, Donut, Line Chart and Area Chart respectively.
 - Take a look at the [dataset](https://github.com/NSTiwari/Visual-Data-Extractor-using-TensorFlow/blob/main/graph-detection.zip) (you'll need to extract the .zip file) used for training this model to get an idea about the directory structures.
 
